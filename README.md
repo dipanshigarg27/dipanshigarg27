@@ -122,8 +122,6 @@ Building websites, MVPs, and prototypes that help transform startup ideas into r
 ### Technical
 
 * HTML
-* CSS
-* JavaScript
 * Git & GitHub
 * React *(Learning)*
 * n8n
