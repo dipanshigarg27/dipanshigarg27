@@ -194,12 +194,14 @@ https://www.linkedin.com/in/dipanshi-garg-369721313/
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+---
 
-I'm always excited to connect with founders, creators, builders, and people passionate about solving real-world problems through entrepreneurship and technology.
+## 🤝 Let's Build Together
 
-**Let's build something impactful. 🚀**
+I'm always open to connecting with founders, builders, creators, investors, and people who enjoy solving meaningful problems.
 
-</div>
+If you're working on something exciting, let's connect and build together.
+
+⭐ Thanks for visiting my GitHub!
 
 
