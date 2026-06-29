@@ -72,8 +72,8 @@ Building automation workflows using n8n to simplify repetitive business tasks.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile here)*
-- 📧 Email: *(Add your professional email here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/dipanshi-garg-369721313/
+- 📧 Email: dipanshi.work@gmail.com
 
 ---
 
